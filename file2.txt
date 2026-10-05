@@ -1,0 +1,11 @@
+vercel.json
+
+
+
+
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/api/aadhaar", "destination": "/api/aadhaar" }
+  ]
+}
